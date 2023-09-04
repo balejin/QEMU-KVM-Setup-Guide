@@ -330,6 +330,6 @@ I know the guide provides steps to setting up your KVM by unplugging and replugg
 
 My best advice is to use a KVM(Keyboard Video Mouse) or display switch you can purchase very cheaply through Amazon without having to spend a few hundred dollars on another monitor or having to replug between displays.  
 
-<a href="https://www.amazon.ca/dp/B076ZKZLXT?psc=1&ref=ppx_yo2ov_dt_b_product_details">Link to display switch</a>
+<a href="https://www.amazon.ca/CABLEDECONN-DisplayPort-Bi-Direction-Converter-displays/dp/B076ZKZLXT/ref=sr_1_1_sspa?crid=2X4SUWWPM3YVY&keywords=cabledeconn%2Bdisplayport%2Bswitch&qid=1693854784&s=electronics&sprefix=cabledeconn%2Bdisport%2Bswitch%2Celectronics%2C93&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1">Link to display switch</a>
 
 If you don't use Display Port, there are also options for HDMI display switches.
