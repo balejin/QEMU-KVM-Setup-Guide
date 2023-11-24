@@ -29,7 +29,7 @@ Keep in mind: this guide won't be covering a single GPU passthrough and that eve
 ## Specifications
 
 - Motherboard: GIGABYTE X570 AORUS ELITE
-- Kernel Version: 6.4.7-arch1-2
+- Kernel Version: 6.4.12-arch1-1
 - Boot loader: GRUB
 - CPU: Ryzen 7 3700x
 - RAM: 32 GB
